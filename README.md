@@ -38,3 +38,10 @@ After downloading, place the .mat files (or other data formats provided) into th
 **Install required Python packages**
 -	Python 3.x
 -	numpy, scikit-learn,scipy, matplotlib (for demo)
+
+# 📄 Citation
+If you use this code in your work, please cite the following paper:
+
+Ensemble Regularized Common Spatio-Spectral Pattern (Ensemble RCSSP) Model for Motor Imagery-Based EEG Signal Classification
+
+https://doi.org/10.1016/j.compbiomed.2021.104546
